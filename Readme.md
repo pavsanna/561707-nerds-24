@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Anna Pavshinskaya](https://up.htmlacademy.ru/htmlcss/24/user/561707).
-* Наставник: `Неизвестно`.
+* Наставник: Владимир Кашапов (https://htmlacademy.ru/profile/id214503).
 
 ---
 
